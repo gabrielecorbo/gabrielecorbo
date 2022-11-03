@@ -12,13 +12,17 @@ As you will see my projects are principally focused on the resolution of varoiuo
 - BSc in Mathematical Engineering at Politecnico di Milano
 
 
-Here are some ideas to get you started:
+✉️ **Get in Contact with me:**
+- [LinkedIn](https://www.linkedin.com/in/gabriele-corbo-657982218/)
+- gabricorbo99@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 **Skills:**
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+😄 **Something about me:**
+- Florence,Italy ⚜️
+- Impossible to choose one favourite movie, but in my [Letterbox](https://letterboxd.com/briologa00/) profile I voted some films.
+- Basketball 🏀 and Football ⚽ fan 
