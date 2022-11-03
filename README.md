@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there, welcome to my Git profile 👋
 
 
-**gabrielecorbo/gabrielecorbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Mathematical Engineering - Statistical Learning student at Politecnico di Milano, currently doing an Erasmus semester at TUDelft. 
+
+As you will see my projects are principally focused on the resolution of varoiuos problem through the implementation of Machine Learning models.
+
+🏫 **Education:**
+- MSc in Statistical Learning track of Mathematical Engineering at Politecnico di Milano
+- Erasmus semester at TUDelft
+- Alta Scuola Politecnica (Politecnico di Milano Honor Program)
+- BSc in Mathematical Engineering at Politecnico di Milano
+
 
 Here are some ideas to get you started:
 
