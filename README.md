@@ -13,6 +13,7 @@ As you will see my projects are principally focused on the resolution of varoiuo
 
 
 ✉️ **Get in Contact with me:**
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-corbo-657982218/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabricorbo99@gmail.com)
 
