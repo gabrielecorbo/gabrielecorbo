@@ -1,4 +1,4 @@
-### Hi there, welcome to my Git profile 👋
+### Hi there, welcome to my GitHub profile 👋
 
 
 I am a Mathematical Engineering - Statistical Learning student at Politecnico di Milano, currently doing an Erasmus semester at TUDelft. 
