@@ -36,5 +36,5 @@ Heart Failure (re)-hospitalizations`](https://github.com/gabrielecorbo/Applied-S
 
 😄 **Something about me:**
 - Florence,Italy ⚜️
-- Check out my [`Letterbox`](https://letterboxd.com/briologa00/) profile to see my favourites films
+- Check out my [`Letterbox`](https://letterboxd.com/briologa00/) profile to see my favourites films 📽️
 - Basketball 🏀 and Football ⚽ fan 
