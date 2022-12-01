@@ -7,7 +7,7 @@ As you will see my projects are principally focused on the resolution of variuos
 
 ### 🏫 **Education:**
 - MSc in Statistical Learning track of Mathematical Engineering at Politecnico di Milano
-- Erasmus semester at TUDelft
+- Erasmus semester at TU Delft
 - Alta Scuola Politecnica (Politecnico di Milano Honor Program)
 - BSc in Mathematical Engineering at Politecnico di Milano
 
