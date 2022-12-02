@@ -24,6 +24,8 @@ As you will see my projects are principally focused on the resolution of variuos
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-purple?style=for-the-badge&logo=LaTeX&logoColor=white)
+![](https://img.shields.io/badge/Matlab-FC4C02?style=for-the-badge&logo=Atlassian&logoColor=white)
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="25" /> ![](https://img.shields.io/badge/Matlab-FC4C02?style=for-the-badge) ... -->
 
 ### 🔨 **Most interesting projects:**
 
