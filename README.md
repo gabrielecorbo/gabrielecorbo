@@ -30,8 +30,8 @@ As you will see my projects are principally focused on the resolution of variuos
 ### 🔨 **Projects:**
 
 ---
-* [Nonparametric analysis of US dairy production and consumption](https://github.com/gabrielecorbo/nonparametric-analysis-US-dairy-production-consumption): This project presents a nonparametric analysis of the evolution of dairy production and consumption in the United States from 1980 to 2021.
-* [Bayesian Mixture Model For Environmetal Application](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-environmental-application): Bayesian clustering of PM10 concentartion time-series, using Dirichlet process mixture models.
+* [`Nonparametric analysis of US dairy production and consumption`](https://github.com/gabrielecorbo/nonparametric-analysis-US-dairy-production-consumption): This project presents a nonparametric analysis of the evolution of dairy production and consumption in the United States from 1980 to 2021.
+* [`Bayesian Mixture Model For Environmetal Application`](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-environmental-application): Bayesian clustering of PM10 concentartion time-series, using Dirichlet process mixture models.
 * [`Mixed and functional analysis models for studying
 Heart Failure (re)-hospitalizations`](https://github.com/gabrielecorbo/Applied-Statistics-project): The main aim of this study is to provide statistically relevant methods for identifying the potentially high-risk patients in advance and understanding which are the main patient-level features that have an impact on the re-hospitalization.
 * [`Machine Learning model that uses Photovoltaic system power output to detect malfunctions`](https://github.com/gabrielecorbo/Machine-Learning-Project) : Exploited machine learning techniques to create a classification model to detect PV anomalies.
