@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I am a Mathematical Engineering - Statistical Learning student at Politecnico di Milano, currently doing an Erasmus semester at TUDelft. 
+I am a Mathematical Engineering - Statistical Learning student at Politecnico di Milano.
 
 As you will see my projects are principally focused on the resolution of variuos problems through the implementation of Machine Learning models.
 
