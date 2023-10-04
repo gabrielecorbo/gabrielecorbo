@@ -30,6 +30,7 @@ As you will see my projects are principally focused on the resolution of variuos
 ### 🔨 **Projects:**
 
 ---
+* [`OASIS project`](https://github.com/gabrielecorbo/oasis-project): The OASIS project, conducted by students of the Alta Scuola Politecnica in collaboration with Atlante, aims to provide a systematic and efficient approach to the deployment of electric vehicles charging stations.
 * [`Nonparametric analysis of US dairy production and consumption`](https://github.com/gabrielecorbo/nonparametric-analysis-US-dairy-production-consumption): This project presents a nonparametric analysis of the evolution of dairy production and consumption in the United States from 1980 to 2021.
 * [`Bayesian Mixture Model For Environmetal Application`](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-environmental-application): Bayesian clustering of PM10 concentartion time-series, using Dirichlet process mixture models.
 * [`Mixed and functional analysis models for studying
